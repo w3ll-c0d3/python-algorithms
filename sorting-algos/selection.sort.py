@@ -15,7 +15,6 @@ def selection_sort(A):
                 minIndex = j
         A[i], A[minIndex] = A[minIndex], A[i]               #swap
 
- 
 
 if __name__ == '__main__':
     arr = [2, 6, 7, 3, 9, 8, 50]

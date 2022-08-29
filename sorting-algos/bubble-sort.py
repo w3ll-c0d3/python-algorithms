@@ -10,6 +10,6 @@ def bubble_sort(A):
 
 
 if __name__ == '__main__':
-    arr = [2, 5, 3, 6, 7, 4, 9]
+    arr = [287, 5, 343, 6, 1, 5, 8, 7, 44, 9]
     bubble_sort(arr)
     print(arr)
